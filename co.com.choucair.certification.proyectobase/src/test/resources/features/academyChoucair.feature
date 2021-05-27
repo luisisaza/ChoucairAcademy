@@ -4,13 +4,12 @@ Feature: Academy Choucair
     @scenario1
     Scenario: search for a automation course
     Given than brandon wants to learn automation at the Choucair Academy
-        | strUser   | strPassword   |
-        | TuUsuario | TuClave       |
+        |strUser  | strPassword |
+        |TuUsuario|TuClave|
     When he search for the course on the Choucair academy plataform
-        | strCourse               |
-        | Metodología Bancolombia |
+        |strCourse    |
+        |MetodologíaBancolombia  |
     Then he finds the course called resources
-        | strCourse
-        | Metodología Bancolombia |
-
+        |strCourse |
+        |MetodologíaBancolombia |
 
