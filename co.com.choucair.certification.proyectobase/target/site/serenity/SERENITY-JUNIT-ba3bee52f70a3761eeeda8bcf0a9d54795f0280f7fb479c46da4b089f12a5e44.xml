@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Academy Choucair" skipped="0" tests="1" time="4.03" timestamp="2021-05-24 11:11:47"><testcase name="search for a automation course"><error message="Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver</error><system-err>Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver&#13;
+co.com.choucair.certification.proyectobase.tasks.OpenUp.performAs(OpenUp.java:24)&#13;
+co.com.choucair.certification.proyectobase.stepdefinitions.ChoucairAcademyStepDefinitions.thanBrandonWantsToLearnAutomationAtTheChoucairAcademy(ChoucairAcademyStepDefinitions.java:20)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
